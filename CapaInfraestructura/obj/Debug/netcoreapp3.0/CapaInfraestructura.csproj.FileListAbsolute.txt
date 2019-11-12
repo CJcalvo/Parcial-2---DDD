@@ -1,0 +1,13 @@
+C:\Users\CJ\source\repos\Parcial-2\CapaInfraestructura\bin\Debug\netcoreapp3.0\CapaDominio.dll
+C:\Users\CJ\source\repos\Parcial-2\CapaInfraestructura\obj\Debug\netcoreapp3.0\CapaInfraestructura.AssemblyInfoInputs.cache
+C:\Users\CJ\source\repos\Parcial-2\CapaInfraestructura\obj\Debug\netcoreapp3.0\CapaInfraestructura.AssemblyInfo.cs
+C:\Users\CJ\source\repos\Parcial-2\CapaInfraestructura\obj\Debug\netcoreapp3.0\CapaInfraestructura.csprojAssemblyReference.cache
+C:\Users\CJ\source\repos\Parcial-2\CapaInfraestructura\bin\Debug\netcoreapp3.0\CapaInfraestructura.deps.json
+C:\Users\CJ\source\repos\Parcial-2\CapaInfraestructura\bin\Debug\netcoreapp3.0\CapaInfraestructura.runtimeconfig.json
+C:\Users\CJ\source\repos\Parcial-2\CapaInfraestructura\bin\Debug\netcoreapp3.0\CapaInfraestructura.runtimeconfig.dev.json
+C:\Users\CJ\source\repos\Parcial-2\CapaInfraestructura\bin\Debug\netcoreapp3.0\CapaInfraestructura.dll
+C:\Users\CJ\source\repos\Parcial-2\CapaInfraestructura\bin\Debug\netcoreapp3.0\CapaInfraestructura.pdb
+C:\Users\CJ\source\repos\Parcial-2\CapaInfraestructura\bin\Debug\netcoreapp3.0\CapaDominio.pdb
+C:\Users\CJ\source\repos\Parcial-2\CapaInfraestructura\obj\Debug\netcoreapp3.0\CapaInfraestructura.csproj.CopyComplete
+C:\Users\CJ\source\repos\Parcial-2\CapaInfraestructura\obj\Debug\netcoreapp3.0\CapaInfraestructura.dll
+C:\Users\CJ\source\repos\Parcial-2\CapaInfraestructura\obj\Debug\netcoreapp3.0\CapaInfraestructura.pdb

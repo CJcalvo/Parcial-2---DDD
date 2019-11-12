@@ -1,0 +1,11 @@
+C:\Users\CJ\source\repos\Parcial-2\CapaAplicacion\obj\Debug\netcoreapp3.0\CapaAplicacion.csprojAssemblyReference.cache
+C:\Users\CJ\source\repos\Parcial-2\CapaAplicacion\obj\Debug\netcoreapp3.0\CapaAplicacion.AssemblyInfoInputs.cache
+C:\Users\CJ\source\repos\Parcial-2\CapaAplicacion\obj\Debug\netcoreapp3.0\CapaAplicacion.AssemblyInfo.cs
+C:\Users\CJ\source\repos\Parcial-2\CapaAplicacion\bin\Debug\netcoreapp3.0\CapaAplicacion.deps.json
+C:\Users\CJ\source\repos\Parcial-2\CapaAplicacion\bin\Debug\netcoreapp3.0\CapaAplicacion.dll
+C:\Users\CJ\source\repos\Parcial-2\CapaAplicacion\bin\Debug\netcoreapp3.0\CapaAplicacion.pdb
+C:\Users\CJ\source\repos\Parcial-2\CapaAplicacion\bin\Debug\netcoreapp3.0\CapaDominio.dll
+C:\Users\CJ\source\repos\Parcial-2\CapaAplicacion\bin\Debug\netcoreapp3.0\CapaDominio.pdb
+C:\Users\CJ\source\repos\Parcial-2\CapaAplicacion\obj\Debug\netcoreapp3.0\CapaAplicacion.csproj.CopyComplete
+C:\Users\CJ\source\repos\Parcial-2\CapaAplicacion\obj\Debug\netcoreapp3.0\CapaAplicacion.dll
+C:\Users\CJ\source\repos\Parcial-2\CapaAplicacion\obj\Debug\netcoreapp3.0\CapaAplicacion.pdb

@@ -1,0 +1,8 @@
+C:\Users\CJ\source\repos\Parcial-2\CapaDominio\bin\Debug\netcoreapp3.0\CapaDominio.deps.json
+C:\Users\CJ\source\repos\Parcial-2\CapaDominio\bin\Debug\netcoreapp3.0\CapaDominio.dll
+C:\Users\CJ\source\repos\Parcial-2\CapaDominio\bin\Debug\netcoreapp3.0\CapaDominio.pdb
+C:\Users\CJ\source\repos\Parcial-2\CapaDominio\obj\Debug\netcoreapp3.0\CapaDominio.csprojAssemblyReference.cache
+C:\Users\CJ\source\repos\Parcial-2\CapaDominio\obj\Debug\netcoreapp3.0\CapaDominio.AssemblyInfoInputs.cache
+C:\Users\CJ\source\repos\Parcial-2\CapaDominio\obj\Debug\netcoreapp3.0\CapaDominio.AssemblyInfo.cs
+C:\Users\CJ\source\repos\Parcial-2\CapaDominio\obj\Debug\netcoreapp3.0\CapaDominio.dll
+C:\Users\CJ\source\repos\Parcial-2\CapaDominio\obj\Debug\netcoreapp3.0\CapaDominio.pdb

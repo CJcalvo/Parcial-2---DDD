@@ -1,0 +1,280 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaAplicacion.Test\\CapaAplicacion.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaAplicacion.Test\\CapaAplicacion.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaAplicacion.Test\\CapaAplicacion.Test.csproj",
+        "projectName": "CapaAplicacion.Test",
+        "projectPath": "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaAplicacion.Test\\CapaAplicacion.Test.csproj",
+        "packagesPath": "C:\\Users\\CJ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaAplicacion.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaAplicacion\\CapaAplicacion.csproj": {
+                "projectPath": "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaAplicacion\\CapaAplicacion.csproj"
+              },
+              "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaDominio\\CapaDominio.csproj": {
+                "projectPath": "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaDominio\\CapaDominio.csproj"
+              },
+              "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaInfraestructura\\CapaInfraestructura.csproj": {
+                "projectPath": "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaInfraestructura\\CapaInfraestructura.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaAplicacion\\CapaAplicacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaAplicacion\\CapaAplicacion.csproj",
+        "projectName": "CapaAplicacion",
+        "projectPath": "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaAplicacion\\CapaAplicacion.csproj",
+        "packagesPath": "C:\\Users\\CJ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaAplicacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaDominio\\CapaDominio.csproj": {
+                "projectPath": "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaDominio\\CapaDominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaDominio\\CapaDominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaDominio\\CapaDominio.csproj",
+        "projectName": "CapaDominio",
+        "projectPath": "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaDominio\\CapaDominio.csproj",
+        "packagesPath": "C:\\Users\\CJ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaDominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaInfraestructura\\CapaInfraestructura.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaInfraestructura\\CapaInfraestructura.csproj",
+        "projectName": "CapaInfraestructura",
+        "projectPath": "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaInfraestructura\\CapaInfraestructura.csproj",
+        "packagesPath": "C:\\Users\\CJ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaInfraestructura\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaDominio\\CapaDominio.csproj": {
+                "projectPath": "C:\\Users\\CJ\\source\\repos\\Parcial-2\\CapaDominio\\CapaDominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
